@@ -92,7 +92,7 @@ Scatter plot analyzing:
 * Interactive thresholds for identifying outliers
 * Separation of high-engagement vs casual listening behavior
 
-<img src="sportifypix2.png" width = "900">
+<img src="Sportifypix2.png" width = "900">
 
 ## 🧠 DAX & Analytics Techniques Used
 
