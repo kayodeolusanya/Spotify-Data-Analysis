@@ -1,4 +1,4 @@
-# Sportify-Data-Analysis
+# Spotify-Data-Analysis
 
 
 # 🎧 Spotify Listening Analytics Dashboard (Power BI)
