@@ -12,7 +12,7 @@ The dashboard transforms raw Spotify streaming history into **actionable insight
 This project demonstrates business-grade analytics design, strong DAX proficiency, and data storytelling aligned with real-world BI use cases.
 
 
-## 🎯 Key Objectives
+ 🎯 Key Objectives
 
 * Analyze listening trends across albums, artists, and tracks
 * Track year-over-year (YoY) performance
