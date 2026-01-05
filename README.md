@@ -79,7 +79,7 @@ Helps identify **habitual vs leisure listening behavior**.
 
 Optimized for ranking clarity and fast comparison.
 
----
+img sportifypix1.png
 
 ### 🔹 Listening Time Heatmap
 
